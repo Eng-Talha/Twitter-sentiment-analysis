@@ -3,6 +3,7 @@ Twitter Sentiment Analysis project built with Python as part of the "Python func
 
 ## Overview
 This project analyzes synthetic Twitter data to evaluate sentiment scores (positive and negative word counts) and visualizes their correlation with retweet counts.
+![Scatter Plot](plot.png)
 
 ## Key Features
 - **Data Processing:** Cleaned and parsed raw text and CSV datasets using Python.
